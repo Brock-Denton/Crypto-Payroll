@@ -21,6 +21,11 @@ pip install bip44
 ---
 ## Payroll Activity 
 
+App Overview: 
+
+![app_overview](https://user-images.githubusercontent.com/23126459/215688567-e53f1014-13f9-4db3-83ff-1620f7cae2db.PNG)
+
+
 Confirmed Transfer Amount:
 
 ![ganache_pic](https://user-images.githubusercontent.com/23126459/215687075-2501c631-96d2-4856-ae28-06f9f64d4ada.PNG)
